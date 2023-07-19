@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8_Assigment_FileHandling", "Day8_Assigment_FileHandling\Day8_Assigment_FileHandling.csproj", "{4609B7A6-2DB7-49DE-95D8-38337B3FBFE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4609B7A6-2DB7-49DE-95D8-38337B3FBFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4609B7A6-2DB7-49DE-95D8-38337B3FBFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4609B7A6-2DB7-49DE-95D8-38337B3FBFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4609B7A6-2DB7-49DE-95D8-38337B3FBFE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7F41E43-4D23-4E20-8323-6F78ACD6B31C}
+	EndGlobalSection
+EndGlobal

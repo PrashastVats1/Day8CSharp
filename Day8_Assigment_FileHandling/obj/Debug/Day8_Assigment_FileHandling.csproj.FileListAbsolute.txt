@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day8\Day8_Assigment_FileHandling\Day8_Assigment_FileHandling\bin\Debug\Day8_Assigment_FileHandling.exe.config
+D:\Mphasis\Live Session\Day8\Day8_Assigment_FileHandling\Day8_Assigment_FileHandling\bin\Debug\Day8_Assigment_FileHandling.exe
+D:\Mphasis\Live Session\Day8\Day8_Assigment_FileHandling\Day8_Assigment_FileHandling\bin\Debug\Day8_Assigment_FileHandling.pdb
+D:\Mphasis\Live Session\Day8\Day8_Assigment_FileHandling\Day8_Assigment_FileHandling\obj\Debug\Day8_Assigment_FileHandling.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day8\Day8_Assigment_FileHandling\Day8_Assigment_FileHandling\obj\Debug\Day8_Assigment_FileHandling.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day8\Day8_Assigment_FileHandling\Day8_Assigment_FileHandling\obj\Debug\Day8_Assigment_FileHandling.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day8\Day8_Assigment_FileHandling\Day8_Assigment_FileHandling\obj\Debug\Day8_Assigment_FileHandling.exe
+D:\Mphasis\Live Session\Day8\Day8_Assigment_FileHandling\Day8_Assigment_FileHandling\obj\Debug\Day8_Assigment_FileHandling.pdb
