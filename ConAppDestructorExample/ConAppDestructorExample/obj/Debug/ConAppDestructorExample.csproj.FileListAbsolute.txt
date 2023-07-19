@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day8\ConAppDestructorExample\ConAppDestructorExample\bin\Debug\ConAppDestructorExample.exe.config
+D:\Mphasis\Live Session\Day8\ConAppDestructorExample\ConAppDestructorExample\bin\Debug\ConAppDestructorExample.exe
+D:\Mphasis\Live Session\Day8\ConAppDestructorExample\ConAppDestructorExample\bin\Debug\ConAppDestructorExample.pdb
+D:\Mphasis\Live Session\Day8\ConAppDestructorExample\ConAppDestructorExample\obj\Debug\ConAppDestructorExample.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day8\ConAppDestructorExample\ConAppDestructorExample\obj\Debug\ConAppDestructorExample.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day8\ConAppDestructorExample\ConAppDestructorExample\obj\Debug\ConAppDestructorExample.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day8\ConAppDestructorExample\ConAppDestructorExample\obj\Debug\ConAppDestructorExample.exe
+D:\Mphasis\Live Session\Day8\ConAppDestructorExample\ConAppDestructorExample\obj\Debug\ConAppDestructorExample.pdb

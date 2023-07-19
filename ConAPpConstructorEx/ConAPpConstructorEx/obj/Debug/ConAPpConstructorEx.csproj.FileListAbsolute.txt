@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day8\ConAPpConstructorEx\ConAPpConstructorEx\obj\Debug\ConAPpConstructorEx.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day8\ConAPpConstructorEx\ConAPpConstructorEx\obj\Debug\ConAPpConstructorEx.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day8\ConAPpConstructorEx\ConAPpConstructorEx\obj\Debug\ConAPpConstructorEx.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day8\ConAPpConstructorEx\ConAPpConstructorEx\bin\Debug\ConAPpConstructorEx.exe.config
+D:\Mphasis\Live Session\Day8\ConAPpConstructorEx\ConAPpConstructorEx\bin\Debug\ConAPpConstructorEx.exe
+D:\Mphasis\Live Session\Day8\ConAPpConstructorEx\ConAPpConstructorEx\bin\Debug\ConAPpConstructorEx.pdb
+D:\Mphasis\Live Session\Day8\ConAPpConstructorEx\ConAPpConstructorEx\obj\Debug\ConAPpConstructorEx.exe
+D:\Mphasis\Live Session\Day8\ConAPpConstructorEx\ConAPpConstructorEx\obj\Debug\ConAPpConstructorEx.pdb

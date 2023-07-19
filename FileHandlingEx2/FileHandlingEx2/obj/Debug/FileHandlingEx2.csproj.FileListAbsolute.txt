@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Git Project\FileHandlingEx2\FileHandlingEx2\bin\Debug\FileHandlingEx2.exe.config
+D:\Mphasis\Live Session\Git Project\FileHandlingEx2\FileHandlingEx2\bin\Debug\FileHandlingEx2.exe
+D:\Mphasis\Live Session\Git Project\FileHandlingEx2\FileHandlingEx2\bin\Debug\FileHandlingEx2.pdb
+D:\Mphasis\Live Session\Git Project\FileHandlingEx2\FileHandlingEx2\obj\Debug\FileHandlingEx2.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Git Project\FileHandlingEx2\FileHandlingEx2\obj\Debug\FileHandlingEx2.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Git Project\FileHandlingEx2\FileHandlingEx2\obj\Debug\FileHandlingEx2.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Git Project\FileHandlingEx2\FileHandlingEx2\obj\Debug\FileHandlingEx2.exe
+D:\Mphasis\Live Session\Git Project\FileHandlingEx2\FileHandlingEx2\obj\Debug\FileHandlingEx2.pdb
